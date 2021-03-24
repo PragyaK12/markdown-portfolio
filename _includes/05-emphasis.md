@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Some programming languages I know (basic level)*
+**1.Python**
+**2.C++**
+**3.C**
